@@ -1,0 +1,14 @@
+layout_spectrum: 0.6273580668494105
+typography_spectrum: 0.27010320499539375
+color:
+  brandStrength: 0.0003217484336346388
+  lightness: 0.8517532560508698
+  saturation: 0.9733563517220318
+  rhythmicContrast: 0.6067200286779553
+  brandColors:
+    - '#2F2933'
+    - '#01A2A6'
+    - '#29D9C2'
+    - '#BDF271'
+    - '#FFFFA6'
+name: zakton
